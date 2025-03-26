@@ -47,10 +47,3 @@ From CRM systems to automation tools, I focus on developing high-performance app
     <img src="https://img.shields.io/badge/Portfolio-Projects-yellow?style=for-the-badge&logo=internet-explorer" />
   </a>
 </div>
-
-
----
-
-This presents the **work you've done** in a professional way, keeps the focus on **project details**, and lets potential clients or recruiters connect with you.  
-
-Would you like to add any specific sections, like **case studies** or **testimonials**? 🚀
