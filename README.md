@@ -26,7 +26,7 @@ LeadGenCRM helps businesses **capture, track, and manage leads efficiently** wit
 
 ## 📬 Contact Me  
 
-📌 **Find Me Here:** [Ali Zain's Connect Page](https://github.com/alizainsoomro/ProfileInfo/blob/main/README.md)  
+📌 Want to know more about me? Check out my full profile → [About Me](https://github.com/alizainsoomro/ProfileInfo)
 
 ---
 
