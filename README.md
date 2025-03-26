@@ -26,7 +26,28 @@ LeadGenCRM helps businesses **capture, track, and manage leads efficiently** wit
 
 ## 📬 Contact Me  
 
-📌 Want to know more about me? Check out my full profile → [About Me](https://github.com/alizainsoomro/ProfileInfo)
+I specialize in designing and building scalable SaaS applications that help businesses streamline their operations. With expertise in Laravel, Django, and Node.js, I create powerful backend solutions, while leveraging React, Vue.js, and Tailwind CSS to craft seamless user experiences.
+
+From CRM systems to automation tools, I focus on developing high-performance applications that drive business growth. Always open to collaborations, innovative projects, and new challenges!
+
+<div align="center">
+  <a href="https://github.com/alizainsoomro" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://linkedin.com/in/YOUR_USERNAME" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="mailto:your.email@example.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
+  </a>
+  <a href="https://www.upwork.com/freelancers/YOUR_PROFILE" target="_blank">
+    <img src="https://img.shields.io/badge/Upwork-Hire%20Me-green?style=for-the-badge&logo=upwork" />
+  </a>
+  <a href="https://your-portfolio.com" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Projects-yellow?style=for-the-badge&logo=internet-explorer" />
+  </a>
+</div>
+
 
 ---
 
